@@ -1,4 +1,4 @@
-# predXOR-GATE
+# pred XOR-GATE
 Photonic Crystal AND Gate Optimization using Machine Learning
 Overview
 Recent advancements in photonic crystals have paved the way for the development of high-speed, low-power optical devices. This repository focuses on a novel application of photonic crystals – the optimization of AND gates, which are fundamental components in digital logic circuits. The approach taken involves leveraging machine learning techniques, specifically the Extra Trees Regressor model, to enhance the performance of these optical gates.
