@@ -1,21 +1,24 @@
-# Enhancing the Performance of Photonic Crystal AND Gates with Machine Learning Optimization
+# Paper Title: Enhancing the Performance of Photonic Crystal AND Gates with Machine Learning Optimization
+This project has been accepted for presentation at the prestigious Third International IEEE Conference on Distributed Computing and High-Performance Computing (DCHPC2024).
 
-Overview
+## Overview
+Welcome to our research project repository! Here, we explore the innovative application of machine learning techniques to optimize photonic crystal AND gates. By leveraging the power of machine learning, specifically the Extra Trees Regressor model, we aim to enhance the performance and efficiency of these essential components in digital logic circuits.
 
-Recent advancements in photonic crystals have paved the way for the development of high-speed, low-power optical devices. This repository focuses on a novel application of photonic crystals – the optimization of AND gates, which are fundamental components in digital logic circuits. The approach taken involves leveraging machine learning techniques, specifically the Extra Trees Regressor model, to enhance the performance of these optical gates.
+## Research Objectives
+- **Optimization**: Utilize machine learning to optimize parameters of photonic crystal AND gates.
+- **Performance Enhancement**: Enhance the functionality and efficiency of AND gates through optimized parameters.
+- **Insight Generation**: Gain insights into the impact of parameters on gate performance and behavior.
 
-Methodology
+## Methodology
+We employ the Extra Trees Regressor model to analyze a comprehensive dataset of simulation results, encompassing various input configurations and parameter settings. The model's predictions guide us in identifying optimal parameter values for the photonic crystal AND gate, ultimately improving its performance.
 
-We employ the Extra Trees Regressor to train on a comprehensive dataset of simulation results. This dataset encompasses various input configurations and parameter settings. The trained model is then utilized to predict the output power for different input and parameter combinations. The evaluation of the model's accuracy reveals a Root Mean Square Error (RMSE) of 0.18, indicating a high level of precision in predicting output power.
+## Key Features
+- **Machine Learning Integration**: Integration of machine learning techniques for optimization.
+- **Parameter Optimization**: Determination of optimal parameters for enhanced gate performance.
+- **Insightful Analysis**: In-depth analysis of parameter impact on gate functionality.
 
-Parameter Optimization
 
-Having established the reliability of our machine learning model, we proceed to identify optimal parameter settings for the photonic crystal AND gate. The parameters under consideration are the radius of the rods (R) and the lattice constant (x). Through the model, we determine that the optimal values for R and x are 0.05 μm and 0.12 μm, respectively.
+## Authors
+- Alireza Mohammadi
 
-Conditional Calculations and Gate Functionality
-
-The paper delves deeper into the optimization process by employing predictions from the Extra Trees Regressor for conditional calculations. It meticulously examines the impact of key parameters, such as rod radius and lattice constant, on the functionality of the AND gate. Special emphasis is placed on how these parameters contribute to achieving the desired output states.
-
-Simulation Results
-
-The simulation results presented in the paper provide a comprehensive understanding of the efficacy of the optimized parameters in realizing the behavior of an AND gate within the photonic crystal framework. The findings validate the importance of thoughtful parameter selection in achieving desired optical gate outputs.
+Feel free to explore the code and contribute to further advancements in photonic crystal technology! 🌟
